@@ -6,6 +6,7 @@ public class test {
 		System.out.print(t.toString());
 	}
 }
+/////hhihihihihihihihhi
 class Time
 {
 	private int hour;
